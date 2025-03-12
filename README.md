@@ -19,7 +19,6 @@ restored. Using the <i>five</i> key components of the NIST CSF Framework outline
 <h1>Program walk-through:</h1>
 
 
-
 <h2 align="center">Identify: </h2>
   
 A flood of ICMP pings was sent through to our network through an unconfigured firewall. This flood of ICMP packets caused the network to stop responding as it overloaded the system’s bandwidth, not allowing the system to be able to forward traffic. This was a DDoS ICMP flood attack by the malicious actor. All critical network resources needed to be secured and restored to a functioning state.
